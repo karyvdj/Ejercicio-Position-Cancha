@@ -1,5 +1,5 @@
 header{
-  background: #087EBB;
+  background: #E83535;
   padding: 3px;
   color: white;
 }
@@ -55,4 +55,21 @@ h1{
 }
 #circuloIzq{
   margin-left: 45px;
+}
+.balon{
+  width: 15px;
+  height: 15px;
+  background: white;
+  border-radius: 50%;
+}
+#balonDer{
+  left: 63px;
+}
+#balonIzq{
+  left: -5px;
+  top: 135px;
+}
+#balonCentro{
+  left: -25px;
+  top: 25px;
 }
