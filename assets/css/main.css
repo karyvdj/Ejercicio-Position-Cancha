@@ -1,0 +1,58 @@
+header{
+  background: #087EBB;
+  padding: 3px;
+  color: white;
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+#futbol{
+  width: 500px;
+  height: 300px;
+  background: #0C7230;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+#futbol *{
+  position: absolute;
+}
+#contorno{
+  width: 480px;
+  height: 280px;
+  border: 2px solid white;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+.porteria{
+  width: 70px;
+  height: 140px;
+  border: 2px solid white;
+  margin-top: 70px;
+  margin-left: 8px;
+  background: #0C7230;
+}
+#porteriaDer{
+  margin-left: 418px;
+}
+.lineaCentro{
+  height: 280px;
+  border: 1px solid white;
+  margin-left: 250px;
+  margin-top: 10px;
+}
+.circuloCentro{
+  width: 70px;
+  height: 70px;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-top: 100px;
+  margin-left: 213px;
+}
+#circuloDer{
+  margin-left: 380px;
+}
+#circuloIzq{
+  margin-left: 45px;
+}
